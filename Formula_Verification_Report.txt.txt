@@ -1,0 +1,28 @@
+FORMULA VERIFICATION REPORT
+
+Topic 1: Dipole Antenna
+Formula: Wavelength = Speed of light / Frequency
+Reference: https://www.antenna-theory.com/antennas/dipole.php
+Status: Preliminary verification completed.
+
+Topic 2: Antenna Gain
+Formula: Linear Gain = Efficiency × Directivity
+Reference: https://www.mathworks.com/help/antenna/
+Status: Verify against the reference.
+
+Topic 3: Impedance Matching
+Formula: Γ = (ZL - Z0) / (ZL + Z0)
+Reference: https://www.antenna-theory.com/
+Status: Verify against the reference.
+
+Topic 4: VSWR
+Formula: VSWR = (1 + |Γ|) / (1 - |Γ|)
+Reference: https://www.mathworks.com/help/antenna/
+Status: Verify against the reference.
+
+Topic 5: Link Budget
+Formula: Received Power = Transmit Power + Antenna Gains - Total Losses
+Reference: https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations/
+Status: Verify against the reference.
+
+Note: A reference link alone does not prove that a formula was verified. The relevant page or section must be checked before marking a formula as verified.

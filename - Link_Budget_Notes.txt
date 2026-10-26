@@ -1,0 +1,34 @@
+# Topic 5: Link Budget
+
+1. Definition
+
+A link budget is a calculation used to estimate the received signal power in a communication system by accounting for transmitter power, antenna gains and signal losses.
+
+2. Why Is It Needed?
+
+- To estimate the received signal power.
+- To understand the effect of distance and frequency.
+- To check whether a wireless communication link may work under specified conditions.
+
+3. Basic Formula
+
+Received Power (dBm) = Transmit Power (dBm)
++ Transmit Antenna Gain (dBi)
++ Receive Antenna Gain (dBi)
+- Total Link Losses (dB)
+
+4. Free-Space Path Loss
+
+FSPL (dB) = 32.44
++ 20 log10(frequency in MHz)
++ 20 log10(distance in km)
+
+This form uses frequency in MHz and distance in kilometres.
+
+5. Important Note
+
+The basic link-budget equation must include all relevant gains and losses. The free-space path-loss model assumes an ideal unobstructed propagation path and may not represent real-world conditions accurately.
+
+6. Verification Status
+
+Preliminary notes. Verify the equations and units against a reliable RF engineering reference before final submission.

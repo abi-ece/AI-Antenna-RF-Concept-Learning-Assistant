@@ -1,0 +1,32 @@
+# Topic 3: Impedance Matching
+
+1. Definition
+
+Impedance matching is the process of adjusting the impedance between a source and a load to achieve the desired power transfer and reduce unwanted reflections.
+
+2. Why Is It Needed?
+
+- To reduce signal reflections.
+- To improve power transfer under the intended operating conditions.
+- To help RF systems operate effectively.
+
+3. Important Formula
+
+Reflection coefficient:
+
+Γ = (ZL - Z0) / (ZL + Z0)
+
+Where:
+Γ = Voltage reflection coefficient
+ZL = Load impedance
+Z0 = Characteristic impedance of the transmission line
+
+For a purely resistive load and real characteristic impedance, this formula applies directly. For complex impedances, use the same expression with complex values.
+
+4. Perfect Matching
+
+When ZL = Z0, the reflection coefficient Γ = 0, meaning there are no reflections at the load under the assumed conditions.
+
+5. Verification Status
+
+Preliminary notes. Verify the formula and definitions against a reliable RF engineering reference before final submission.

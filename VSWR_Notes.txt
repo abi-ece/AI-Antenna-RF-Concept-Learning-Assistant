@@ -1,0 +1,30 @@
+# Topic 4: VSWR
+
+1. Definition
+
+VSWR stands for Voltage Standing Wave Ratio. It describes the relationship between the maximum and minimum voltage amplitudes of a standing wave on a transmission line.
+
+2. Why Is It Important?
+
+VSWR helps us understand impedance matching and the amount of signal reflection in an RF system.
+
+3. Important Formula
+
+VSWR = (1 + |Γ|) / (1 - |Γ|)
+
+Where:
+VSWR = Voltage Standing Wave Ratio
+Γ = Voltage reflection coefficient
+|Γ| = Magnitude of the reflection coefficient
+
+4. Perfect Matching
+
+When Γ = 0:
+
+VSWR = 1
+
+A VSWR of 1:1 indicates a perfectly matched load under the assumed conditions.
+
+5. Verification Status
+
+Preliminary notes. Verify the definition and formula against a reliable RF engineering reference before final submission.

@@ -1,0 +1,32 @@
+# Topic 2: Antenna Gain
+
+1. Definition
+
+Antenna gain describes how effectively an antenna directs radio-frequency energy in a particular direction compared with a reference antenna.
+
+2. Directivity
+
+Directivity describes how concentrated the antenna's radiation is in a particular direction.
+
+3. Efficiency
+
+Antenna efficiency indicates how effectively the antenna converts accepted input power into radiated power.
+
+4. Important Formula
+
+Linear gain:
+
+G = ηD
+
+Gain in dBi:
+
+G(dBi) = 10 log10(G)
+
+Where:
+G = Linear antenna gain
+η = Antenna efficiency (linear)
+D = Directivity (linear)
+
+5. Verification Status
+
+Preliminary notes. Verify the definitions and formulas against a reliable antenna engineering reference before final submission.

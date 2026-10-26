@@ -1,0 +1,36 @@
+# Topic 1: Dipole Antenna
+
+**1. Definition**
+
+A dipole antenna is an antenna consisting of two conductive elements that transmit or receive electromagnetic waves.
+
+**2. Working Principle**
+
+When alternating current flows through the antenna, it produces electromagnetic radiation. The antenna can also receive electromagnetic waves and convert them into electrical signals.
+
+**3. Half-Wave Dipole**
+
+A half-wave dipole is an antenna whose total length is approximately half the wavelength of the operating frequency.
+
+**4. Important Formula**
+
+Wavelength:
+
+λ = c / f
+
+Where:
+- λ = Wavelength in metres (m)
+- c = Speed of light in vacuum (approximately 3 × 10⁸ m/s)
+- f = Frequency in hertz (Hz)
+
+Approximate half-wave dipole length:
+
+L ≈ λ / 2
+
+**5. Reference**
+
+Website: Antenna-Theory.com  
+Page: Dipole Antenna  
+https://www.antenna-theory.com/antennas/dipole.php
+
+**Verification status:** Preliminary notes. Verify the definition, formula and practical antenna length against another reliable engineering reference before final submission.
