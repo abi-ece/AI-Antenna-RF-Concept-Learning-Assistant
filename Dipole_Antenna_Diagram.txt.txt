@@ -1,0 +1,56 @@
+DIPOLE ANTENNA DIAGRAM
+
+1. Definition
+
+A dipole antenna consists of two conductive elements separated by a small gap at the centre.
+
+2. Structure
+
+Left Arm -------- Feed Point -------- Right Arm
+                       |
+                       |
+                 Coaxial Feed Line
+
+3. Antenna Length
+
+Total length of a half-wave dipole = λ/2
+
+Length of each arm = λ/4
+
+4. Wavelength Formula
+
+λ = c/f
+
+Where:
+λ = Wavelength in metres
+c = Speed of light = 3 × 10⁸ m/s
+f = Frequency in hertz (Hz)
+
+5. Numerical Example
+
+Given:
+Frequency, f = 300 MHz = 300 × 10⁶ Hz
+
+Wavelength:
+
+λ = c/f
+
+λ = (3 × 10⁸)/(300 × 10⁶)
+
+λ = 1 m
+
+Half-wave dipole length:
+
+L = λ/2
+
+L = 1/2 = 0.5 m
+
+6. Result
+
+Wavelength = 1 m
+
+Approximate half-wave dipole length = 0.5 m
+
+7. Note
+
+The actual antenna length may be slightly shorter depending on the antenna design and operating conditions.

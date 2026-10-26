@@ -1,0 +1,54 @@
+IMPEDANCE MATCHING AND VSWR DIAGRAM
+
+1. Impedance Matching
+
+Impedance matching is the process of matching the load impedance with the transmission line impedance to reduce signal reflections.
+
+2. Diagram
+
+Transmitter → Transmission Line → Matching Network → Load Antenna
+                         ← Reflected Wave
+
+3. VSWR
+
+VSWR stands for Voltage Standing Wave Ratio.
+
+Formula:
+
+VSWR = (1 + |Γ|) / (1 - |Γ|)
+
+Where:
+Γ = Reflection coefficient
+|Γ| = Magnitude of the reflection coefficient
+
+4. Reflection Coefficient Formula
+
+For a real, purely resistive load:
+
+Γ = (ZL - Z0) / (ZL + Z0)
+
+Where:
+ZL = Load impedance
+Z0 = Characteristic impedance of the transmission line
+
+5. Numerical Example
+
+Given:
+Z0 = 50 Ω
+ZL = 75 Ω
+
+Γ = (75 - 50) / (75 + 50)
+Γ = 25 / 125
+Γ = 0.2
+
+VSWR = (1 + 0.2) / (1 - 0.2)
+VSWR = 1.2 / 0.8
+VSWR = 1.5
+
+Result:
+Reflection coefficient magnitude = 0.2
+VSWR = 1.5:1
+
+6. Important Point
+
+Perfect impedance matching gives Γ = 0 and VSWR = 1:1. A higher VSWR generally indicates greater signal reflection.

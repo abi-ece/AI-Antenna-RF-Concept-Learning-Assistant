@@ -1,0 +1,57 @@
+RF LINK BUDGET DIAGRAM
+
+1. Definition
+
+An RF link budget calculates the received signal power by considering transmitter power, antenna gains, and system losses.
+
+2. Diagram
+
+Transmitter
+    |
+    v
+Transmitting Antenna
+    |
+    v
+Wireless RF Signal
+    |
+    v
+Receiving Antenna
+    |
+    v
+Receiver
+
+3. Link Budget Formula
+
+Received Power (dBm) = Transmitted Power (dBm)
+                       + Transmitter Antenna Gain (dBi)
+                       + Receiver Antenna Gain (dBi)
+                       - Total System Losses (dB)
+
+4. Numerical Example
+
+Given:
+Transmitted Power = 20 dBm
+Transmitter Antenna Gain = 5 dBi
+Receiver Antenna Gain = 3 dBi
+Total System Losses = 10 dB
+
+Calculation:
+
+Received Power = 20 + 5 + 3 - 10
+
+Received Power = 18 dBm
+
+Result:
+Received signal power = 18 dBm
+
+5. Important Note
+
+This example uses the stated total system losses. In a real RF link, losses may include free-space path loss, cable loss, and other losses. Do not count the same loss twice.
+
+6. Applications
+
+- Wireless communication
+- Wi-Fi systems
+- Mobile communication
+- Satellite communication
+- RF system design
