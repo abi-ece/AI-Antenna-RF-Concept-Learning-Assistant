@@ -1,0 +1,41 @@
+# AI Antenna and RF Concept Learning Assistant
+## Prompt Library
+
+### Prompt 1: Beginner Explanation
+Explain the basics of a half-wave dipole antenna in simple English for a beginner ECE student. Include its structure, working principle, wavelength, and one example.
+
+### Prompt 2: Advanced Explanation
+Explain the half-wave dipole antenna using electromagnetic concepts. Include current distribution, radiation pattern, and important assumptions.
+
+### Prompt 3: Antenna Gain
+Explain antenna gain, directivity, and efficiency. Give the formulas, units, and the difference between dBi and linear gain.
+
+### Prompt 4: Impedance Matching
+Explain impedance matching in RF systems. Describe characteristic impedance, load impedance, reflection coefficient, and why matching is important.
+
+### Prompt 5: VSWR
+Explain Voltage Standing Wave Ratio (VSWR) in simple English. Give its formula and explain what VSWR = 1:1 means.
+
+### Prompt 6: Link Budget
+Explain an RF link budget and calculate received power using transmitter power, transmitter antenna gain, receiver antenna gain, and total system losses.
+
+### Prompt 7: Numerical Problem Solving
+Solve the given RF numerical problem step by step. State the formula, substitute the values, show the calculation, and include the final answer with the correct unit.
+
+### Prompt 8: Formula Verification
+Check the given RF formula using a reliable engineering reference. Confirm the meaning of every symbol, units, assumptions, and conditions. If uncertain, clearly say so instead of guessing.
+
+### Prompt 9: Error Detection
+Review the AI-generated RF answer and identify incorrect equations, arithmetic mistakes, unit errors, unsupported assumptions, or invented values. Correct each error and explain why.
+
+### Prompt 10: Quiz Generation
+Create 10 multiple-choice questions about dipole antennas, antenna gain, impedance matching, VSWR, and link budget. Provide four options per question and a separate answer key. Verify the answers.
+
+### Prompt 11: Glossary
+Create a beginner-friendly glossary of important antenna and RF terms. Give a short definition and the correct unit where applicable.
+
+### Prompt 12: Diagram Creation
+Create a clearly labelled educational diagram of a dipole antenna or RF link budget. Check the labels, signal direction, formulas, and units for correctness.
+
+### Prompt 13: Source Checking
+Provide reliable engineering or educational

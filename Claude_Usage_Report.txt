@@ -1,0 +1,33 @@
+AI TOOL COMPARISON REPORT
+
+Tool 3: Claude
+
+Task:
+Generated a beginner-friendly explanation of Voltage Standing Wave Ratio (VSWR).
+
+Prompt Used:
+"Explain Voltage Standing Wave Ratio (VSWR) for a beginner ECE student. Give the correct formula, define the reflection coefficient, and solve one example when the magnitude of the reflection coefficient is 0.2. Show all steps and units. Mention the limitations of the explanation."
+
+Formula Verification:
+
+VSWR = (1 + |Γ|) / (1 - |Γ|)
+
+Given:
+|Γ| = 0.2
+
+Calculation:
+VSWR = (1 + 0.2) / (1 - 0.2)
+VSWR = 1.2 / 0.8
+VSWR = 1.5
+
+Result:
+VSWR = 1.5:1
+
+Verification:
+The formula and numerical result were checked manually.
+
+Purpose of Using Claude:
+To compare its explanation of VSWR with the project's existing notes.
+
+Limitation:
+The answer must be checked against reliable engineering references. The result assumes that the reflection coefficient magnitude is 0.2 and that it is defined at the relevant measurement plane.

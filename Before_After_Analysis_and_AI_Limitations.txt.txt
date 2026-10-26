@@ -1,0 +1,60 @@
+# Before and After Analysis and AI Limitations
+## Project: AI Antenna and RF Concept Learning Assistant
+
+### 1. Before Using AI
+Before using AI tools, learning antenna and RF concepts required reading technical notes and understanding formulas manually. Beginners may find concepts such as antenna gain, impedance matching, VSWR, and link budget difficult. Numerical calculations also require careful attention to units and formulas.
+
+### 2. After Using AI
+AI tools helped organise the learning process and produce beginner-friendly explanations, advanced explanations, numerical solutions, diagrams, glossary terms, quiz questions, and presentation content.
+
+The AI-generated information was checked using formulas and independent calculations. This made the learning material easier to review and organise.
+
+### 3. Numerical Verification
+Eight RF numerical problems were checked.
+
+- Problem 1: Half-wave dipole length at 100 MHz ≈ 1.5 m.
+- Problem 2: Gain = 6.4 linear ≈ 8.06 dBi.
+- Problem 3: Reflection coefficient = 0.2 for a 50 Ω line and 75 Ω purely resistive load.
+- Problem 4: VSWR = 1.5:1 for |Γ| = 0.2.
+- Problem 5: Free-space path loss ≈ 78.46 dB at 100 MHz over 2 km.
+- Problem 6: Received power = 18 dBm for the stated link budget.
+- Problem 7: Half-wave dipole length at 300 MHz ≈ 0.5 m.
+- Problem 8: Reflection coefficient magnitude = 0.5 when VSWR = 3.
+
+These answers are valid under the stated assumptions and idealised formulas.
+
+### 4. AI Limitations
+1. AI may provide incorrect formulas or explanations.
+2. AI may use incorrect units or make arithmetic mistakes.
+3. AI may invent values or references if not instructed to verify them.
+4. AI-generated diagrams may contain incorrect labels or physical relationships.
+5. AI explanations may omit important assumptions.
+6. AI cannot replace laboratory measurements or expert engineering review.
+7. Results depend on the quality of prompts and reference material.
+
+### 5. Error Prevention
+- Check formulas against reliable engineering references.
+- Recalculate numerical answers independently.
+- Verify units and assumptions.
+- Check every diagram label.
+- Confirm that source links exist and support the claim.
+- Clearly mark uncertain information instead of guessing.
+
+### 6. AI Skills Demonstrated
+1. Prompt engineering.
+2. AI-assisted technical explanation.
+3. Numerical calculation and verification.
+4. Quiz and glossary generation.
+5. Diagram generation.
+6. Presentation preparation.
+7. Spreadsheet calculator automation.
+8. AI output error analysis.
+
+### 7. AI Tools Used
+- ChatGPT: project guidance, explanations, calculations, content organisation, and spreadsheet support.
+- Gemini: explanation of a half-wave dipole example.
+- Claude: explanation of VSWR and reflection coefficient.
+- Perplexity: searching for engineering reference material. Specific sources must be checked before being cited as verified.
+
+### 8. Conclusion
+The AI Antenna and RF Concept Learning Assistant demonstrates how AI can support learning of antenna and RF fundamentals. AI makes explanations and practice material easier to prepare, but formulas, calculations, sources, and diagrams still require verification before the information is trusted.

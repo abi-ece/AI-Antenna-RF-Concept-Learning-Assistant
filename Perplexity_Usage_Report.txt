@@ -1,0 +1,28 @@
+AI TOOL COMPARISON REPORT
+
+Tool 4: Perplexity AI
+
+Task:
+Searched for reliable educational and engineering references for antenna and RF concepts.
+
+Prompt Used:
+"Find reliable educational or engineering references for these RF topics: half-wave dipole antenna length, antenna gain, impedance matching, VSWR, and free-space link budget. Prefer university textbooks, IEEE resources, or official engineering documentation. Provide the source title, author or organization, and direct link. Do not invent references; clearly identify any source you cannot verify."
+
+Topics Researched:
+1. Half-wave dipole antenna length
+2. Antenna gain
+3. Impedance matching
+4. Voltage Standing Wave Ratio (VSWR)
+5. RF link budget and free-space path loss
+
+Verification Method:
+- Check whether each source link opens.
+- Confirm the source title and publisher or organization.
+- Compare relevant definitions and formulas with the project notes.
+- Record the sources actually used.
+
+Important Limitation:
+A search result is not automatically a reliable reference. Every source must be checked before using it in the final project.
+
+Note:
+Insert the actual source titles and links obtained from Perplexity after checking them. Do not report unverified references as confirmed sources.

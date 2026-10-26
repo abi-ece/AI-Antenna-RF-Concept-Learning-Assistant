@@ -1,0 +1,61 @@
+AI ANTENNA AND RF LEARNING ASSISTANT
+NUMERICAL VERIFICATION REPORT
+
+Objective:
+To evaluate AI-generated RF calculations by checking formulas, units and arithmetic.
+
+PROBLEM 1: Wavelength
+AI result: 3 m
+Check: c/f = (3 × 10^8)/(100 × 10^6) = 3 m
+Status: Correct
+
+PROBLEM 2: Antenna Gain
+AI result: Linear gain = 6.4; gain ≈ 8.06 dBi
+Check: 0.8 × 8 = 6.4
+10 log10(6.4) ≈ 8.06 dBi
+Status: Correct
+
+PROBLEM 3: Reflection Coefficient
+AI result: Γ = 0.2
+Check: (75 - 50)/(75 + 50) = 0.2
+Status: Correct
+
+PROBLEM 4: VSWR
+AI result: 1.5:1
+Check: (1 + 0.2)/(1 - 0.2) = 1.5
+Status: Correct
+
+PROBLEM 5: Free-Space Path Loss
+AI result: Approximately 78.46 dB
+Check: 32.44 + 20 log10(100) + 20 log10(2)
+= 78.46 dB approximately
+Status: Correct
+
+PROBLEM 6: Link Budget
+AI result: Received power = 18 dBm
+Check: 20 + 5 + 3 - 10 = 18 dBm
+Status: Correct under the stated assumptions
+
+PROBLEM 7: Wavelength
+AI result: Wavelength = 1 m; half-wave length ≈ 0.5 m
+Check: (3 × 10^8)/(300 × 10^6) = 1 m
+1/2 = 0.5 m
+Status: Correct
+
+PROBLEM 8: Reflection Coefficient
+AI result: |Γ| = 0.5
+Check: (3 - 1)/(3 + 1) = 0.5
+Status: Correct
+
+ERRORS AND LIMITATIONS OBSERVED
+
+1. The eight calculations above have no arithmetic errors under the stated assumptions.
+2. The FSPL formula requires frequency in MHz and distance in km.
+3. Antenna gain and directivity must use linear units in G = ηD.
+4. Practical dipole length may differ from the ideal half-wavelength.
+5. Numerical correctness alone does not prove that a formula or definition is supported by a reliable reference.
+6. No invented numerical values were identified in these eight calculations; this does not guarantee that AI will never invent values.
+
+CONCLUSION
+
+The eight numerical answers were checked using independent arithmetic. Reliable engineering references must also be consulted to verify formulas, definitions and assumptions before final submission.

@@ -1,0 +1,36 @@
+AI TOOL COMPARISON REPORT
+
+Tool 2: Google Gemini
+
+Task:
+Generated an explanation of a half-wave dipole antenna for an ECE student.
+
+Prompt Used:
+"Explain a half-wave dipole antenna for an ECE student. Include its definition, wavelength formula, antenna length formula, and one numerical example at 300 MHz. Show all calculation steps and units. State any assumptions clearly."
+
+Output Verification:
+
+1. Wavelength formula:
+   λ = c/f
+
+2. Half-wave dipole length:
+   L ≈ λ/2
+
+3. Given frequency:
+   f = 300 MHz = 300 × 10⁶ Hz
+
+4. Wavelength:
+   λ = (3 × 10⁸)/(300 × 10⁶)
+   λ = 1 m
+
+5. Approximate dipole length:
+   L ≈ 1/2 = 0.5 m
+
+Verification Result:
+The formulas and numerical results above were checked manually. They are correct under the stated ideal half-wave dipole assumption.
+
+Purpose of Using Gemini:
+To compare an AI-generated explanation with the project's existing RF notes.
+
+Limitation:
+An AI-generated answer should be checked against reliable engineering references before being accepted.
