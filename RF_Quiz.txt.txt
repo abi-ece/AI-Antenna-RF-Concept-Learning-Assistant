@@ -1,0 +1,63 @@
+AI ANTENNA AND RF QUIZ
+
+Choose the correct answer.
+
+1. What does RF stand for?
+A. Radio Frequency
+B. Random Function
+C. Resistance Factor
+D. Radio Formula
+
+2. What is the SI unit of frequency?
+A. Ohm
+B. Hertz
+C. Watt
+D. Metre
+
+3. What is the wavelength formula?
+A. λ = f/c
+B. λ = c/f
+C. λ = c × f
+D. λ = c + f
+
+4. What is the approximate length of an ideal half-wave dipole?
+A. λ
+B. 2λ
+C. λ/2
+D. λ/4
+
+5. What is the unit of impedance?
+A. Volt
+B. Ohm
+C. Hertz
+D. Metre
+
+6. What is the VSWR of a perfectly matched load?
+A. 0
+B. 0.5
+C. 1
+D. 10
+
+7. What does dBm measure?
+A. Power relative to 1 milliwatt
+B. Frequency
+C. Wavelength
+D. Impedance
+
+8. Which parameter represents the reflected voltage wave relative to the incident voltage wave?
+A. Directivity
+B. Γ (Reflection coefficient)
+C. Wavelength
+D. Frequency
+
+9. What is the main purpose of a link budget?
+A. To calculate received signal power
+B. To measure antenna height only
+C. To calculate wavelength only
+D. To identify cable colour
+
+10. Which formula is used for linear antenna gain when efficiency and directivity are in linear units?
+A. G = ηD
+B. G = η + D
+C. G = η/D
+D. G = η − D

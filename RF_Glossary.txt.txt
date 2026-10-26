@@ -1,0 +1,61 @@
+AI ANTENNA AND RF GLOSSARY
+
+1. Antenna
+A device that transmits or receives electromagnetic waves.
+
+2. Dipole Antenna
+An antenna consisting of two conductive elements.
+
+3. Wavelength
+The distance between corresponding points of a wave, represented by λ.
+
+4. Frequency
+The number of wave cycles per second, measured in hertz (Hz).
+
+5. Antenna Gain
+A measure of how effectively an antenna directs radio energy in a particular direction compared with a reference antenna.
+
+6. Directivity
+A measure of how concentrated an antenna's radiation is in a particular direction.
+
+7. Impedance
+The opposition a circuit presents to alternating current, measured in ohms (Ω).
+
+8. Impedance Matching
+Making source, transmission-line and load impedances compatible to achieve the intended power transfer and reduce reflections.
+
+9. Reflection Coefficient
+A quantity represented by Γ that describes the reflected voltage wave relative to the incident voltage wave.
+
+10. VSWR
+Voltage Standing Wave Ratio; the ratio of maximum to minimum voltage amplitude on a standing wave.
+
+11. Link Budget
+A calculation of transmitted power, antenna gains and link losses to estimate received power.
+
+12. Free-Space Path Loss
+The loss associated with radio-wave propagation through ideal free space.
+
+13. RF
+Radio Frequency; electromagnetic frequencies used for radio communication.
+
+14. dB
+A logarithmic unit used to express ratios of power or amplitude.
+
+15. dBm
+A power level expressed in decibels relative to 1 milliwatt.
+
+16. dBi
+Antenna gain expressed in decibels relative to an ideal isotropic radiator.
+
+17. Characteristic Impedance
+The impedance associated with a travelling wave on a transmission line, commonly represented by Z0.
+
+18. Load Impedance
+The impedance presented by the device connected to the output of a transmission line, represented by ZL.
+
+19. Antenna Efficiency
+The fraction of accepted input power that is radiated by an antenna.
+
+20. Electromagnetic Wave
+A wave consisting of coupled electric and magnetic fields that can carry energy through space.

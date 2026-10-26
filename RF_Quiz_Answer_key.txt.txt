@@ -1,0 +1,15 @@
+RF QUIZ — VERIFIED ANSWER KEY
+
+1. A — Radio Frequency
+2. B — Hertz
+3. B — λ = c/f
+4. C — λ/2
+5. B — Ohm
+6. C — 1
+7. A — Power relative to 1 milliwatt
+8. B — Reflection coefficient
+9. A — Calculate received signal power
+10. A — G = ηD
+
+Verification note:
+Answers are checked against the definitions and formulas in the project glossary. Confirm them against reliable engineering references before final submission.
