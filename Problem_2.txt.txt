@@ -1,0 +1,29 @@
+PROBLEM 2: ANTENNA GAIN
+
+Question:
+An antenna has a directivity of 8 (linear) and an efficiency of 80%. Calculate its linear gain and gain in dBi.
+
+Given:
+Directivity, D = 8
+Efficiency, η = 80% = 0.8
+
+Formula 1:
+Linear gain, G = η × D
+
+Calculation:
+G = 0.8 × 8
+G = 6.4
+
+Formula 2:
+Gain in dBi = 10 log10(G)
+
+Calculation:
+Gain in dBi = 10 log10(6.4)
+Gain ≈ 8.06 dBi
+
+Final Answers:
+Linear gain = 6.4
+Gain ≈ 8.06 dBi
+
+Verification Note:
+Efficiency and directivity were given in linear form. The logarithmic conversion uses base 10.

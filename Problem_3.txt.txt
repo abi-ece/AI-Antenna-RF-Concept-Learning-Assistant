@@ -1,0 +1,23 @@
+PROBLEM 3: IMPEDANCE MATCHING
+
+Question:
+A transmission line has a characteristic impedance of 50 ohms and a load impedance of 75 ohms. Calculate the voltage reflection coefficient.
+
+Given:
+Z0 = 50 ohms
+ZL = 75 ohms
+
+Formula:
+Γ = (ZL - Z0) / (ZL + Z0)
+
+Calculation:
+Γ = (75 - 50) / (75 + 50)
+Γ = 25 / 125
+Γ = 0.2
+
+Final Answer:
+Voltage reflection coefficient, Γ = 0.2
+Magnitude of reflection coefficient = 0.2
+
+Verification Note:
+The calculation assumes a real, positive characteristic impedance and a purely resistive load. The reflected voltage-wave amplitude is 20% of the incident amplitude.

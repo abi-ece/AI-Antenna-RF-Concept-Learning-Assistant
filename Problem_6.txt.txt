@@ -1,0 +1,26 @@
+PROBLEM 6: LINK BUDGET
+
+Question:
+Calculate the received power using the given link-budget parameters.
+
+Given:
+Transmit power = 20 dBm
+Transmit antenna gain = 5 dBi
+Receive antenna gain = 3 dBi
+Total link losses = 10 dB
+
+Formula:
+Received Power (dBm) = Transmit Power (dBm)
++ Transmit Antenna Gain (dBi)
++ Receive Antenna Gain (dBi)
+- Total Link Losses (dB)
+
+Calculation:
+Pr = 20 + 5 + 3 - 10
+Pr = 18 dBm
+
+Final Answer:
+Received power = 18 dBm
+
+Verification Note:
+The calculation assumes the listed gains and losses account for the link conditions and that all relevant losses are included.

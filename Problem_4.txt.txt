@@ -1,0 +1,21 @@
+PROBLEM 4: VSWR
+
+Question:
+An RF system has a voltage reflection coefficient magnitude of 0.2. Calculate the VSWR.
+
+Given:
+|Γ| = 0.2
+
+Formula:
+VSWR = (1 + |Γ|) / (1 - |Γ|)
+
+Calculation:
+VSWR = (1 + 0.2) / (1 - 0.2)
+VSWR = 1.2 / 0.8
+VSWR = 1.5
+
+Final Answer:
+VSWR = 1.5:1
+
+Verification Note:
+The reflection coefficient magnitude is less than 1, so the calculated VSWR is finite and greater than or equal to 1.

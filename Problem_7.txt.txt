@@ -1,0 +1,29 @@
+PROBLEM 7: WAVELENGTH AND HALF-WAVE DIPOLE
+
+Question:
+An antenna operates at 300 MHz. Calculate the wavelength and approximate half-wave dipole length.
+
+Given:
+Frequency, f = 300 MHz = 300 × 10^6 Hz
+Speed of light, c = 3 × 10^8 m/s
+
+Formula 1:
+Wavelength = c / f
+
+Calculation:
+λ = (3 × 10^8) / (300 × 10^6)
+λ = 1 m
+
+Formula 2:
+Half-wave dipole length ≈ λ / 2
+
+Calculation:
+L ≈ 1 / 2
+L ≈ 0.5 m
+
+Final Answers:
+Wavelength = 1 m
+Ideal half-wave dipole length ≈ 0.5 m
+
+Verification Note:
+The half-wave length is an ideal approximation. A practical resonant dipole may be slightly shorter depending on its construction and surroundings.

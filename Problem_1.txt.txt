@@ -1,0 +1,31 @@
+PROBLEM 1: DIPOLE ANTENNA WAVELENGTH
+
+Question:
+An antenna operates at a frequency of 100 MHz. Calculate:
+1. Wavelength
+2. Approximate half-wave dipole length
+
+Given:
+Frequency, f = 100 MHz = 100 × 10^6 Hz
+Speed of light, c = 3 × 10^8 m/s
+
+Formula 1:
+Wavelength = c / f
+
+Calculation:
+λ = (3 × 10^8) / (100 × 10^6)
+λ = 3 m
+
+Formula 2:
+Half-wave dipole length ≈ λ / 2
+
+Calculation:
+L ≈ 3 / 2
+L ≈ 1.5 m
+
+Final Answers:
+Wavelength = 3 m
+Ideal half-wave dipole length ≈ 1.5 m
+
+Verification Note:
+These values are calculated using the speed of light and the given frequency. A practical dipole antenna may have a slightly different resonant length.

@@ -1,0 +1,22 @@
+PROBLEM 5: FREE-SPACE PATH LOSS
+
+Question:
+A radio signal operates at 100 MHz and travels a distance of 2 km. Calculate the free-space path loss.
+
+Given:
+Frequency, f = 100 MHz
+Distance, d = 2 km
+
+Formula:
+FSPL (dB) = 32.44 + 20 log10(f in MHz) + 20 log10(d in km)
+
+Calculation:
+FSPL = 32.44 + 20 log10(100) + 20 log10(2)
+FSPL = 32.44 + 40 + 6.02
+FSPL ≈ 78.46 dB
+
+Final Answer:
+Free-space path loss ≈ 78.46 dB
+
+Verification Note:
+The formula uses frequency in MHz and distance in km. It assumes ideal free-space propagation and does not include other system losses.
